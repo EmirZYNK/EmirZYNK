@@ -1,5 +1,5 @@
 ## Hi there👋
-I'm Emir, from Türkiye.👋
+Hi, I'm Emir👋. I'm from Turkey and I'm studying Computer Engineering at Ankara Science University. I know Java and C++, and I'm currently trying to learn Kotlin.
 
 
 
